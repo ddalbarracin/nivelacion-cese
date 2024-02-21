@@ -1,0 +1,11 @@
+Segundo Archivo
+
+Primer linea de texto en segundo archivo
+
+Segunda linea de texto en segundo archivo
+
+Tercera linea de texto en segundo archivo
+
+Cuarta linea de texto en segundo archivo
+
+Quinta linea de texto en segundo archivo
